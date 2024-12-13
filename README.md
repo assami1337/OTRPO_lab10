@@ -7,11 +7,13 @@ git clone https://github.com/assami1337/OTRPO_lab10.git && cd OTRPO_lab10
 ```
 python3 -m venv venv
 ```
+linux/macos
 ```
-source venv/bin/activate #linux/macos
+source venv/bin/activate
 ```
+windows
 ```
-./venv/Scripts/activate #windows
+./venv/Scripts/activate
 ```
 3. установить зависимости
 ```
